@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name 1sqinch)(type Legacy)(uri ${KIPRJMOD}/1sqinch.lib)(options "")(descr ""))
+)

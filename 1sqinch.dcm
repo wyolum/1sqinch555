@@ -1,0 +1,113 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4020
+D Binary counter 14 stages (asynchronous)
+K CMOS CNT CNT14
+F http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4020bms-24bms-40bms.pdf
+$ENDCMP
+#
+$CMP Battery_Cell
+D single battery cell
+K battery cell
+$ENDCMP
+#
+$CMP C_NP
+D Polarised capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP C_P
+D Polarised capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP Conn_01x01
+D Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP ICM7555
+D CMOS General Purpose Timer, DIP-8/SOIC-8
+K single timer 555
+F http://www.intersil.com/content/dam/Intersil/documents/icm7/icm7555-56.pdf
+$ENDCMP
+#
+$CMP LED
+D LED generic
+K led diode
+F ~
+$ENDCMP
+#
+$CMP LM555
+D Timer, DIP-8/SOIC-8/SSOP-8
+K single timer
+F http://www.ti.com/lit/ds/symlink/lm555.pdf
+$ENDCMP
+#
+$CMP LMC555xM
+D CMOS Timer, SOIC-8
+K single timer
+F http://www.ti.com/lit/ds/symlink/lmc555.pdf
+$ENDCMP
+#
+$CMP LMC555xMM
+D CMOS Timer, VSSOP-8
+K single timer
+F http://www.ti.com/lit/ds/symlink/lmc555.pdf
+$ENDCMP
+#
+$CMP LMC555xN
+D CMOS Timer, DIP-8
+K single timer
+F http://www.ti.com/lit/ds/symlink/lmc555.pdf
+$ENDCMP
+#
+$CMP NA555
+D Precision Timers, DIP-8/SOIC-8/SSOP-8
+K timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP NE555
+D Precision Timers, DIP-8/SOIC-8
+K timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP R
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP SA555
+D Precision Timers, DIP-8/SOIC-8
+K timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP SE555
+D Precision Timers, DIP-8/SOIC-8
+K timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP TLC555CD
+D Single LinCMOS Timer, SOIC-8
+K single timer
+F http://www.ti.com/lit/ds/symlink/tlc555.pdf
+$ENDCMP
+#
+$CMP TLC555CP
+D Single LinCMOS Timer, DIP-8
+K single timer
+F http://www.ti.com/lit/ds/symlink/tlc555.pdf
+$ENDCMP
+#
+$CMP TLC555CPS
+D Single LinCMOS Timer, SSOP-8
+K single timer
+F http://www.ti.com/lit/ds/symlink/tlc555.pdf
+$ENDCMP
+#
+#End Doc Library
