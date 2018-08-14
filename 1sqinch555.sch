@@ -1232,4 +1232,6 @@ Wire Wire Line
 Wire Wire Line
 	9625 4900 10100 4900
 Connection ~ 10100 4900
+Text Notes 6975 6500 0    50   ~ 0
+Vf = 2.1 V\nIf = 10mA\nRled = 9 - (2.1*3) V / 10mA\nRled = 270 ohms
 $EndSCHEMATC
