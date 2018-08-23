@@ -1234,10 +1234,4 @@ Wire Wire Line
 Connection ~ 10100 4900
 Text Notes 6975 6500 0    50   ~ 0
 Vf = 2.1 V\nIf = 10mA\nRled = 9 - (2.1*3) V / 10mA\nRled = 270 ohms
-$Sheet
-S 7525 875  2925 1450
-U 5B7639B0
-F0 "Sheet5B7639AF" 50
-F1 "file5B7639AF.sch" 50
-$EndSheet
 $EndSCHEMATC
